@@ -13,6 +13,6 @@
 <br/>
 <br/>
 <a href="#">
-  <img alt="Rygent's activity" src="https://activity-graph.herokuapp.com/graph?username=Rygent&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/></a>
+  <img alt="Rygent's activity" src="https://github-readme-activity-graph.cyclic.app/graph?username=Rygent&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true"/></a>
 <br/>
 <br/>
